@@ -1,0 +1,9 @@
+opencv-python
+Cython
+numba==0.50.1
+progress
+matplotlib
+easydict
+scipy
+pycocotools==2.0.1
+tqdm
