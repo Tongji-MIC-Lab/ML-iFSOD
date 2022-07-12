@@ -1,6 +1,6 @@
 # Meta-Learning Based Incremental Few-Shot Object Detection
 
-Meng Cheng, Hanli Wang*,* Yu Long
+Meng Cheng, Hanli Wang, Yu Long
 
 ### Overview:
 
