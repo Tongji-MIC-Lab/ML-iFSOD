@@ -70,3 +70,4 @@ The ablation study of the proposed model includes the following three aspects: (
 Please cite the following paper if you find this work useful:
 
 Meng Cheng, Hanli Wang, Yu Long. Meta-Learning Based Incremental Few-Shot Object Detection, IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 4, pp. 2158-2169, Apr. 2021.
+
